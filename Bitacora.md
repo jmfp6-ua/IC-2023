@@ -13,3 +13,5 @@ Antonio Martínez Santa -> 19/09/2023 - Cambios en el índice del proyecto, reto
 Antonio Martínez Santa -> 19/09/2023 - Gráfico de palabras clave, puntos 2, 3.2, 3.3, parte de bibliografía y retoques de índice (en clase todo)
 
 Jose Manuel Fernández Pertusa -> 19/09/2023 - Añadidas 3 ofertas de trabajo (1.7, 1.8, 1.9). Creada la oferta ficticia de futuro (2.1).
+
+Antonio Ibáñez Muñoz -> 19/09/2023 - Finalización del formato de los puestos de trabajo, decisión de que 3 trabajos dejar siendo estos el 1.1, 1.2 y 1.3, la introducción al apartado 3 y el 3.1 y finalmente añadir a la bibliografía las páginas webs utilizadas
