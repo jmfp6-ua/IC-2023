@@ -11,3 +11,5 @@ Antonio Martínez Santa -> 19/09/2023 - Añadidos 3 trabajos acertados con los r
 Antonio Martínez Santa -> 19/09/2023 - Cambios en el índice del proyecto, retocados y definitivos las ofertas 1.4, 1.5, 1.6 además de un enlace para acceder a las ofertas de trabajo
 
 Antonio Martínez Santa -> 19/09/2023 - Gráfico de palabras clave, puntos 2, 3.2, 3.3, parte de bibliografía y retoques de índice (en clase todo)
+
+Jose Manuel Fernández Pertusa -> 19/09/2023 - Añadidas 3 ofertas de trabajo (1.7, 1.8, 1.9). Creada la oferta ficticia de futuro (2.1).
