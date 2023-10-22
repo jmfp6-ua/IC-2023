@@ -33,8 +33,7 @@ Todos -> Finalización y entrega de grafo de dependencias
 10/10/2023  
 Todos -> Pruebas iniciales, arreglo de fallos en el programa
 
-17/10/2023
-
+17/10/2023  
 Todos -> Creación de matrices de gran tamaño y optimización inicial del programa
 
 19/10/2023  
