@@ -17,3 +17,17 @@ Jose Manuel Fernández Pertusa -> 19/09/2023 - Añadidas 3 ofertas de trabajo (1
 Antonio Ibáñez Muñoz -> 19/09/2023 - Finalización del formato de los puestos de trabajo, decisión de que 3 trabajos dejar siendo estos el 1.1, 1.2 y 1.3, la introducción al apartado 3 y el 3.1 y finalmente añadir a la bibliografía las páginas webs utilizadas
 
 Antonio Martínez Santa -> 19/09/2023 - Añadido el punto 4, finalización del índice y organización final del proyecto. FIN
+
+**Bitácora de la Práctica 2 de IC**
+-------------------------------------------------------------------------
+26/09/2023
+
+03/10/2023
+
+10/10/2023
+
+17/10/2023
+
+19/10/2023
+
+20/10/2023
