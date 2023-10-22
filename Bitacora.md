@@ -21,13 +21,25 @@ Antonio Martínez Santa -> 19/09/2023 - Añadido el punto 4, finalización del �
 **Bitácora de la Práctica 2 de IC**
 -------------------------------------------------------------------------
 26/09/2023
+Todos -> Búsqueda de problema a paralelizar
 
 03/10/2023
+Todos -> Elección del problema a paralelizar
+Todos -> Inicio del grafo de dependencias
+
+04/10/2023
+Todos -> Finalización y entrega de grafo de dependencias
 
 10/10/2023
+Todos -> Pruebas iniciales, arreglo de fallos en el programa
 
 17/10/2023
+Todos -> Creación de matrices de gran tamaño y optimización inicial del programa
 
 19/10/2023
+Jose Manuel Pertusa -> Tarea 2.4
+Todos -> Generación de resultados en distiontos PCs para Tarea 2.4 y 2.5
 
 20/10/2023
+Jose Manuel Pertusa -> Generación de Entregables con Makefile
+Todos -> Generación de resultados en distiontos PCs para Tarea 2.3
