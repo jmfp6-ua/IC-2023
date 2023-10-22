@@ -34,12 +34,19 @@ Todos -> Finalización y entrega de grafo de dependencias
 Todos -> Pruebas iniciales, arreglo de fallos en el programa
 
 17/10/2023  
-Todos -> Creación de matrices de gran tamaño y optimización inicial del programa
+Todos -> Creación de matrices de gran tamaño y optimización inicial del programa  
+Antonio Martínez Santa -> Tarea 1 y Tarea 2 y 2.1
 
 19/10/2023  
-Jose Manuel Pertusa -> Tarea 2.4
-Todos -> Generación de resultados en distiontos PCs para Tarea 2.4 y 2.5
+Antonio Ibañez Muñoz -> Tarea 2.2  
+Jose Manuel Pertusa -> Tarea 2.4  
+Todos -> Generación de resultados en distintos PCs para Tarea 2.4 y 2.5
 
 20/10/2023  
-Jose Manuel Pertusa -> Generación de Entregables con Makefile
-Todos -> Generación de resultados en distiontos PCs para Tarea 2.3
+Antonio Ibañez Muñoz -> corrección y finalización de la Tarea 2.2  
+Antonio Martínez Santa -> Tarea 4 y Tarea 2.6  
+Jose Manuel Pertusa -> Generación de Entregables con Makefile  
+Todos -> Generación de resultados en distintos PCs para Tarea 2.3
+
+21/10/2023  
+Antonio Martínez Santa -> Últimos arreglos de diseño de la práctica
