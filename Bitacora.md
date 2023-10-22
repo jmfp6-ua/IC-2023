@@ -24,7 +24,7 @@ Antonio Martínez Santa -> 19/09/2023 - Añadido el punto 4, finalización del �
 Todos -> Búsqueda de problema a paralelizar
 
 03/10/2023  
-Todos -> Elección del problema a paralelizar
+Todos -> Elección del problema a paralelizar  
 Todos -> Inicio del grafo de dependencias
 
 04/10/2023  
