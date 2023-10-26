@@ -50,3 +50,9 @@ Todos -> Generación de resultados en distintos PCs para Tarea 2.3
 
 21/10/2023  
 Antonio Martínez Santa -> Últimos arreglos de diseño de la práctica
+
+
+**Bitácora de la Práctica 3 de IC**
+-------------------------------------------------------------------------
+24/10/2023  
+Todos -> Realización de las tareas de preparación  
