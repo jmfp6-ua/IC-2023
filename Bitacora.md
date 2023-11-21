@@ -56,3 +56,15 @@ Antonio Martínez Santa -> Últimos arreglos de diseño de la práctica
 -------------------------------------------------------------------------
 24/10/2023  
 Todos -> Realización de las tareas de preparación  
+
+31/10/2023
+Todos -> Asignación de tareas y estudio de código
+
+07/11/2023
+Todos -> Mejora de código para facilitar su paralelización
+
+14/11/2023
+Todos -> Puesta en común de los grafos de dependencias de las diferentes funciones
+
+21/11/2023
+Todos -> Paralelización parcial del código y estudio sobre el mismo
